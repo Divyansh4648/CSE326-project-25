@@ -85,6 +85,10 @@ input[type=submit]:hover {
 h1{
   font-size: 60px;
 }
+.img{
+	padding: 10px;
+}
+	
 input[type=text] {
   width: 80%;
   box-sizing: border-box;
